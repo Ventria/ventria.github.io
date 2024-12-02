@@ -22,6 +22,8 @@
     z-index: 100;
 }
 
+/*----------------Logo-----------------*/
+
 .logo {
     font-size: 25px;
     margin: 5%;
@@ -41,6 +43,8 @@ span {
     color: orangered;
 }
 
+/*-------------------Navbar----------------*/
+
 .navbar a{
     font-size: 18px;
     color: white;
@@ -55,6 +59,8 @@ span {
     color: orangered;
     border-bottom: 3px solid orangered;
 }
+
+/*------------------Contact-----------------*/
 
 .contact {
     padding: 7px 18px;
@@ -74,6 +80,8 @@ span {
     box-shadow: 0 0 26px orangered;
     color: white;
 }
+
+/*----------------Home------------------*/
 
 .home {
     width: 100%;
@@ -102,6 +110,8 @@ span {
     font-size: 18px;
     margin: 25px 0 30px;
 }
+
+/*-----------------Button-----------------*/
 
 .btn-box {
     width: 345px;
@@ -152,6 +162,8 @@ span {
     border-radius: 50%;
 }
 
+/*-----------------Webkit-----------------*/
+
 ::-webkit-scrollbar {
     width: 15px;
 }
@@ -164,6 +176,8 @@ span {
     background-color: rgba(0,0,0,0.6);
     width: 50px;
 }
+
+/*---------------About-----------------*/
 
 .about {
     display: flex;
@@ -199,6 +213,8 @@ span {
     margin: 2em 0 3em;
 }
 
+/*----------------Contact-Form----------------*/
+
 .contact-form h2 {
     text-align: center;
     margin-top: 3em;
@@ -231,6 +247,8 @@ span {
     margin: 1rem 0;
     resize: none;
 }
+
+/*----------------Footer-------------*/
 
 .footer {
     position: relative;
